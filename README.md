@@ -3,7 +3,7 @@ Bootstrap repo with all elements from Bootstrap v4
 
 No custom CSS
 
-# Table of Contents:
+### Table of Contents:
 * Utilities
 	* [Typography](/src/typography.html)
 	* [Code](/src/code.html)
